@@ -10,3 +10,4 @@ This is the begining of our Tutorial
 ## We are glad to have you
 
 Thank you for coming.
+Come another day.
